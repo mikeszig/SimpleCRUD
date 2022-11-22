@@ -1,0 +1,15 @@
+C:\Users\Miguel\Desktop\Ejercicios\ListadoContactos\bin\Debug\net6.0\ListadoContactos.exe
+C:\Users\Miguel\Desktop\Ejercicios\ListadoContactos\bin\Debug\net6.0\ListadoContactos.deps.json
+C:\Users\Miguel\Desktop\Ejercicios\ListadoContactos\bin\Debug\net6.0\ListadoContactos.runtimeconfig.json
+C:\Users\Miguel\Desktop\Ejercicios\ListadoContactos\bin\Debug\net6.0\ListadoContactos.dll
+C:\Users\Miguel\Desktop\Ejercicios\ListadoContactos\bin\Debug\net6.0\ListadoContactos.pdb
+C:\Users\Miguel\Desktop\Ejercicios\ListadoContactos\obj\Debug\net6.0\ListadoContactos.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Ejercicios\ListadoContactos\obj\Debug\net6.0\ListadoContactos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\Ejercicios\ListadoContactos\obj\Debug\net6.0\ListadoContactos.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\Ejercicios\ListadoContactos\obj\Debug\net6.0\ListadoContactos.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\Ejercicios\ListadoContactos\obj\Debug\net6.0\ListadoContactos.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Ejercicios\ListadoContactos\obj\Debug\net6.0\ListadoContactos.dll
+C:\Users\Miguel\Desktop\Ejercicios\ListadoContactos\obj\Debug\net6.0\refint\ListadoContactos.dll
+C:\Users\Miguel\Desktop\Ejercicios\ListadoContactos\obj\Debug\net6.0\ListadoContactos.pdb
+C:\Users\Miguel\Desktop\Ejercicios\ListadoContactos\obj\Debug\net6.0\ListadoContactos.genruntimeconfig.cache
+C:\Users\Miguel\Desktop\Ejercicios\ListadoContactos\obj\Debug\net6.0\ref\ListadoContactos.dll
